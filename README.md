@@ -40,7 +40,7 @@ SmartElect uses 5 distinct tests to ensure that the smart contract work as inten
 ---
 ## Log
 
-![ganache-log](log.txt)
+[ganache-log](log.txt)
 
 ---
 ## Changelog
