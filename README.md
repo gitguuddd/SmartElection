@@ -16,7 +16,7 @@
 The goal of this project is to create a voting system which uses solutions provided by Ethereum smart contracts to ensure normal voting functionality (protection against double voting). The users of this system use their Ethereum accounts to vote for candidates. The voting is mostly free (voters still have to pay the transaction gas fee). Once the voter has voted the smart contract is updated to prevent double voting. After each vote and event is emitted which loads the latest results. The results table can be sorted by candidates' **name**, **party**, **vote count**.
 
 ---
-## SmartElect sequence diagram
+## SmartElection sequence diagram
 ![diagram](images/image.png)
 
 - Initial candidates info display
