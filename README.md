@@ -5,7 +5,7 @@
 [SmartContract](https://github.com/blockchain-group/Blockchain-technologijos/blob/master/pratybos/4uzduotis-SmartContract.md)
 ## Install instructions
 1. install **Node.js**, **Truffle**, **Ganache**
-2. clone repository ```$ git clone https://github.com/gitguuddd/SmartElect.git``` or ```$ git clone git@github.com:gitguuddd/SmartElect.git``` if you're using SSH
+2. clone repository ```$ git clone https://github.com/gitguuddd/SmartElection.git``` or ```$ git clone git@github.com:gitguuddd/SmartElection.git``` if you're using SSH
 3. cd to ```SmartElect``` main directory
 4. run ```npm install``` to install required packages
 5. start Ganache server, connect to Ganache localhost test pool in your browser
