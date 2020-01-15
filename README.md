@@ -1,5 +1,5 @@
 # SmartElection
-- ![screen](screenshot24.png)
+- ![screen](images/appview.png)
 ---
 ## Link to the requirements of the task
 [SmartContract](https://github.com/blockchain-group/Blockchain-technologijos/blob/master/pratybos/4uzduotis-SmartContract.md)
@@ -17,7 +17,7 @@ The goal of this project is to create a voting system which uses solutions provi
 
 ---
 ## SmartElect sequence diagram
-![diagram](screenshot24.png)
+![diagram](images/image.png)
 
 - Initial candidates info display
     - Voter sends his MetaMask account info to smart contract
@@ -35,7 +35,7 @@ SmartElect uses 5 distinct tests to ensure that the smart contract work as inten
 - Invalid candidate exception handling test - checks if the smart contract is able to handle cases when invalid candidate id is passed via voting.
 - Double vote exception handling test - checks if the smart contract is able to prevent double voting.
 
-![tests](test.png)
+![tests](images/tests.png)
 
 ---
 ## Log
